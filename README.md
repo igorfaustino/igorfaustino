@@ -1,1 +1,1 @@
-![](https://awesome-profile.vercel.app/api/profile?name=Igor%20Faustino&github=igorfaustino&wakatime=&job=Fullstack%20Developer&highlightColor=00FF88&aboutMe=I%27m%20a%20Fullstack%20Developer%20student%20from%20Brazil.%0AStudying%20now%20HTML5,%20CSS3,%20JavaScript%20and%20ReactJS.&theme=dark)
+![](https://awesome-profile.vercel.app/api/profile?name=Igor%20Faustino&github=igorfaustino&wakatime=&job=Fullstack%20Developer&highlightColor=00FF88&aboutMe=I%27m%20a%20Graphic%20Designer%20from%20Brazil.%0AStudying%20now%20HTML5,%20CSS3,%20JavaScript%20and%20ReactJS.&theme=dark)
